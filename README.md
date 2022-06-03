@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Rafael Alcantara.</h1>
+<h1 align="left">Hello! I'm Rafael Alcantara.</h1>
 <p align="left"></p>
 
 - :man_technologist: **Front-end Developer** & **Graphic Designer**
