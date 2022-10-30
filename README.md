@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
+My name is Rafael Alcantara, and I'm currently looking for a job as a front-end developer. I have 10 years of experience working as a graphic designer. I am currently taking a bachelor's degree in applied technology and also an associate in marketing. I have participated in 3 boot camps and created many web applications. My experience includes work on more than 500 design projects in my entire career. I have demonstrated high performance and an ownership mindset in every company I worked for, which resulted in promotions to leadership positions.
+
+<br/><br/>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
