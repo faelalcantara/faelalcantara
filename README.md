@@ -18,17 +18,9 @@ Here are some ideas to get you started:
 
 - :man_technologist: **Front-end Developer** & **Graphic Designer**
 
-- :space_invader: I’m currently studing **REACT** at [Rocketseat](https://github.com/Rocketseat)
-
 - :mortar_board:  I am a bachelor's student in **Applied Technology** at [BYUI](https://www.byui.edu/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React and Git**
-
-<br/><br/>
-
-My name is Rafael Alcantara, and I'm currently looking for a job as a front-end developer. I have 10 years of experience working as a graphic designer. I am currently taking a bachelor's degree in applied technology and also an associate in marketing. I have participated in 3 boot camps and created many web applications. My experience includes work on more than 500 design projects in my entire career. I have demonstrated high performance and an ownership mindset in every company I worked for, which resulted in promotions to leadership positions.
-
-<br/><br/>
 
 ## 🛠 &nbsp;Tech Stack
 
